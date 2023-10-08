@@ -4,8 +4,12 @@ Students
 3. Felix
 4. Felix2
 5. Felix3 (This was added as demo)
+<<<<<<< HEAD
+6. furu collis
+=======
 6. furu collins
 7. atabong
+>>>>>>> e9b824feece92341217d9ea021a9b2afc1ab05d2
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -19,3 +23,4 @@ Students
 >>>>>>> f3d304f693b284ea2647b092d06024212599229b
 >>>>>>> 3c95bbc768aa3c96f9bd429ebee6f65063bcad69
 .
+Dan
